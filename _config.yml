@@ -1,7 +1,7 @@
 # Site settings
-repository: itspriddle/recipes.priddle.xyz
+repository: itspriddle/recipes.priddle.net
 title: Recipes
-url: "https://recipes.priddle.xyz"
+url: "https://recipes.priddle.net"
 baseurl: ""
 
 encoding: utf-8
